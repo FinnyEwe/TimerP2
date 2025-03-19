@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+
+  gap: 400px;
+}
+
+.timer {
+font-size: 30px;
+}
